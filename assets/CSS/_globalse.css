@@ -21,8 +21,6 @@ body{
 }
 
 *::selection{
-    background-color: #e83e8c;
-color: white;
 }
 
 h1 , h2 , h3 , h4 , h5 , h6{
