@@ -1,11 +1,11 @@
-.live{
-    padding-top: var(--padding-section);
-padding-bottom: var(--padding-section);
+.live {
+  padding-top: var(--padding-section);
+  padding-bottom: var(--padding-section);
 }
-.live .live-content .live-item img{
-    width: 100%;
-border-radius: 10px;
+.live .live-content .live-item img {
+  width: 100%;
+  border-radius: 10px;
 }
-.live .live-content .live-item h4{
-    margin: 0;
+.live .live-content .live-item h4 {
+  margin: 0;
 }

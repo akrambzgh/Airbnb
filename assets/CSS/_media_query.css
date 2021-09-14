@@ -2,28 +2,28 @@
 
 /* Mobile */
 @media screen and (max-width: 767px) {
-    .container{
-        width: 350px;
-    }
+  .container {
+    width: 350px;
+  }
 }
 
 /* Small */
 @media screen and (min-width: 768px) {
-    .container{
-        width: 750px;
-    }
+  .container {
+    width: 750px;
+  }
 }
 
 /* Medium */
 @media screen and (min-width: 992px) {
-    .container{
-        width: 970px;
-    }
+  .container {
+    width: 970px;
+  }
 }
 
 /* Large */
 @media screen and (min-width: 1200px) {
-    .container{
-        width: 1140px;
-    }
+  .container {
+    width: 1140px;
+  }
 }
