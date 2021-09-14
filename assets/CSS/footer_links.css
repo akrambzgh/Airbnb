@@ -1,0 +1,29 @@
+.footer-links{
+    padding-top: var(--padding-section);
+background-color: #eee;
+position: relative;
+z-index: -1;
+}
+.footer-links .footer-links-content{
+    align-items: flex-start;
+position: relative;
+border-bottom: 1px solid rgb(121, 121, 121);
+}
+.footer-links .footer-links-content .footer-links-item ul li a{
+    color: rgb(121, 121, 121);
+padding: 18px 0;
+font-size: 17px;
+line-height: 1.6;
+}
+.footer-links .footer-links-content .footer-links-item ul li a:hover{
+    text-decoration: underline;
+}
+
+/* footer */
+footer .footer-content ul{
+    display: flex;
+}
+footer .footer-content ul li a{
+    padding: 0 18px;
+color: black;
+}

@@ -1,0 +1,13 @@
+.discover{
+    padding-top: var(--padding-section);
+padding-bottom: var(--padding-section);
+}
+.discover .discover-content .discover-item img{
+    width: 100%;
+border-radius: 10px;
+}
+.discover .discover-content .discover-item h4,
+.discover .discover-content .discover-item p{
+    margin: 0;
+line-height: 1.6;
+}

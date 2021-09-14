@@ -1,5 +1,7 @@
 :root{
     --heading-color: #222;
 
+    --padding-section: 48px;
+
     --transition-duarition: 0.3s;
 }
